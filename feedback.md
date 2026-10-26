@@ -1,3 +1,3 @@
-Feedback - Aula 02 e Aula 03
+# Feedback - Aula 03
 
-Bruno, na aula 2 você não entregou, ficou só o commit inicial, nota 0,00. Na aula 3 você migrou pro SQLite e fez os seis desafios, só que as rotas de total e de resumo ficaram escritas depois da rota por id, então elas nunca são alcançadas, e você mesmo escreveu no commit que ficou incompleto. Por isso a nota ali é 0,10. Ainda está devendo a aula 2.
+Bruno, a sua aula 3 tecnicamente está bem feita, até os exercícios bônus apareceram, contagem, filtro, busca, ordenação, validação de id. Só que durante as aulas eu não te vi trabalhando nisso, você ficou bastante tempo no celular, e não tenho como confirmar que foi você mesmo que escreveu esse código. Por enquanto vou considerar só a entrega, não a nota cheia, até você me mostrar que entende o que fez. E tem um bug pra corrigir de qualquer forma: as rotas /treinos/total e /treinos/resumo estão declaradas depois do /treinos/:id, então nunca são alcançadas. Na próxima aula me chama que eu te pergunto sobre o código pra fechar a nota.
