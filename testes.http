@@ -90,3 +90,12 @@ DELETE {{url}}/treinos/99999
 
 ### 12 - Listar de novo pra conferir       -> espera 200
 GET {{url}}/treinos
+### 13 - Criar treino com duracao maior que 180 -> espera 400
+POST {{url}}/treinos
+Content-Type: application/json
+
+{
+    "nome": "Treino muito longo",
+    "duracao": 181
+}
+
