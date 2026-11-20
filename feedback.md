@@ -1,3 +1,5 @@
-# Feedback - Aula 03
+Bruno, a aula 2 não tem nenhum commit seu, fica zerada. A aula 3 tem o bug que eu já tinha te falado, as rotas /treinos/total e /treinos/resumo declaradas depois do /treinos/:id, nunca são alcançadas, por isso ficou só com nota parcial. A aula 4 com as camadas ficou certa, essa conta inteira.
 
-Bruno, a sua aula 3 tecnicamente está bem feita, até os exercícios bônus apareceram, contagem, filtro, busca, ordenação, validação de id. Só que durante as aulas eu não te vi trabalhando nisso, você ficou bastante tempo no celular, e não tenho como confirmar que foi você mesmo que escreveu esse código. Por enquanto vou considerar só a entrega, não a nota cheia, até você me mostrar que entende o que fez. E tem um bug pra corrigir de qualquer forma: as rotas /treinos/total e /treinos/resumo estão declaradas depois do /treinos/:id, então nunca são alcançadas. Na próxima aula me chama que eu te pergunto sobre o código pra fechar a nota.
+A recuperação do primeiro momento está na lista de revisão. Estuda a lista de revisão que você recupera o que falta.
+
+Os outros 2 pontos desse primeiro momento são a arguição, na próxima aula, no laboratório.
